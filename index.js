@@ -1,6 +1,6 @@
 class personaje{
-    constructor(nombrePersonaje, idadePersonaje, tipoPersonaje, ataquePersonaje){
-        this.nombrePersonaje = nombrePersonaje
+    constructor(nomePersonaje, idadePersonaje, tipoPersonaje, ataquePersonaje){
+        this.nomePersonaje = nomePersonaje
         this.idadePersonaje = idadePersonaje
         this.tipoPersonaje = tipoPersonaje
         this.ataquePersonaje = ataquePersonaje
